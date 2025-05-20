@@ -1,0 +1,7 @@
+crewai
+langchain
+openai
+fastapi
+uvicorn
+pydantic
+google-api-python-client
