@@ -29,7 +29,7 @@ class BlogContentRequest(BaseModel):
     primary_keywords: str
     target_audience: str
     call_to_action: str
-    desired_word_count: int = 2000
+    desired_word_count: int = 4000
     requester_email: str
     task_id: str = None
     publish_date: str = None
